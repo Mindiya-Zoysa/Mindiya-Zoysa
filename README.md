@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently Reading **Artificial Intelligence and Data Science**
+- 🌱 I’m currently Reading my degree in **Artificial Intelligence and Data Science**
 
 - 🧑‍🎓 I’m an Undergraduate at **IIT**
 
