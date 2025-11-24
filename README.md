@@ -35,17 +35,19 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mindiya-Zoysa&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=issues&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mindiya-Zoysa&theme=dark&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindiya-Zoysa&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&cache_seconds=1800" /> 
+  <!-- Different date format options -->
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindiya-Zoysa&theme=dark&hide_border=false&date_format=n-j-Y&cache_seconds=1800" /> 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindiya-Zoysa&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,tex&card_width=300&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindiya-Zoysa&theme=dark&hide_border=false&layout=donut-vertical&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800" />
   
   </td>
 </tr>
 </table>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
