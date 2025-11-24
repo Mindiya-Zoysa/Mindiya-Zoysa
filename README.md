@@ -36,6 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mindiya-Zoysa&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Mindiya's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindiya-Zoysa&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
