@@ -31,23 +31,11 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mindiya-Zoysa&theme=dark&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <br></br>
-  <!-- Different date format options -->
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindiya-Zoysa&theme=dark&hide_border=false&date_format=n-j-Y&cache_seconds=1800" /> 
-</td>
-<td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindiya-Zoysa&theme=dark&hide_border=false&layout=donut-vertical&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800" />
-  
-  </td>
-</tr>
-</table>
-
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=Mindiya-Zoysa&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Mindiya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindiya-Zoysa&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 ---
 
 <h3 align="center">Connect with me:</h3>
